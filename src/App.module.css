@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: fit-content;
+}
+
+.btn {
+  width: fit-content;
+}
+
+.searchRow {
+  display: flex;
+  column-gap: 8px;
+  margin-bottom: 12px;
+}
